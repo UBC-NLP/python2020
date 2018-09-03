@@ -1,6 +1,6 @@
 # Python Programming,
-School of Information
-The University of British Columbia
+## School of Information
+## The University of British Columbia
 
 **Course title:** Python Programming, Course Code: LIBR 559C 
 
