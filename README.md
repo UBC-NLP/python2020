@@ -18,8 +18,7 @@
 
 **Office phone:** 6048-274-530
 
-**Office hours:** Mon. 2:00pm - 4:00pm or by appointment. *(I can also handle inquiries via email or Skype 
-if Mondays are not possible for you.)*
+**Office hours:** Mon. 11:00am - 1:00pm or by appointment. *(I can also handle inquiries via email or Skype.)*
 
 **E-mail address:** muhammad.mageed@ubc.ca
 
