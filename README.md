@@ -104,9 +104,9 @@ Upon completion of this course students will be able to:
 | ---------- | -------- | ------ |
 | Professionalization |  | 5% |
 | ASSIGNMENT 0: In-Class & Video Tutorial Code | Throughout weeks 2-11 | 30% |
-| ASSIGNMENT 1: | Sept. 26 | 10% |
-| ASSIGNMENT 2: | Oct 10 | 10% |
-| ASSIGNMENT 3: | Oct 31 | 10% |
+| Homework 1: | Sept. 26 | 10% |
+| Homework 2: | Oct 10 | 10% |
+| Homework 3: | Oct 31 | 10% |
 | ASSIGNMENT 4: Term Project (GROUP)| | |
 | Proposal/Outline | Nov 7 | 5% |
 | Report/Product | Nov 28 |30% |
