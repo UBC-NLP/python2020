@@ -92,7 +92,7 @@ Upon completion of this course students will be able to:
 | 5    | 3-Oct  | Dictionaries                     | Hetland CH04 / [slides_5](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_five.ipynb); [vid_5](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) |                            |
 | 6    | 10-Oct | Conditionals & Loops             | Hetland CH05 / [slides_6](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_six.ipynb) | hw 2 due |
 | 7    | 17-Oct | Functions                        | Hetland CH06 / [slides_7](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_seven.ipynb) |        hw 3 out                    |
-| 8    | 24-Oct | Revision & Project Discussion    | No readings  / [slides_8](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_eight.ipynb)  |               |
+| 8    | 24-Oct | Revision & Project Discussion    | No readings    |               |
 | 9    |31-Oct| Exceptions                       | Hetland CH08 /[slides_9](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_nine.ipynb)  |     hw 3 due                       |
 | 10   | 7-Nov  | Modules                          | Hetland CH10 /[slides_10](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_ten.ipynb)  | Project outline due        |
 | 11   | 14-Nov  | Files                            | Hetland CH11 /[slides_11](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_eleven.ipynb)  |                            |
