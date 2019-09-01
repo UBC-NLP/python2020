@@ -1,12 +1,12 @@
 # Python Programming,
-## School of Information
+## School of Information & Department of Linguistics
 ## The University of British Columbia
 
-**Course title:** Python Programming, Course Code: LIBR 559C 
+**Course title:** Python Programming, Course Code: LIBR559C/LING530G
 
-**Program:** MLIS, Dual
+**Program:** iSchool (MLIS, Dual). Linguistics graduate programs
 
-**Year:** Winter Session I 2018
+**Year:** Winter Session I 2019
 
 **Time:** Wed. 9:00–11:50 p.m.
 
@@ -14,15 +14,17 @@
 
 **Instructor:** Dr. Muhammad Abdul-Mageed
 
-**Office location:** 494
+**Office location:** Totem Field Studios 224
+(Department of Linguistics: 2613 West Mall V6T 1Z4)
 
-**Office phone:** 6048-274-530
+**Office phone:** (Apologies, I do not use office phone. Please email me)
 
-**Office hours:** Mon. 11:00am - 1:00pm or by appointment. *(I can also handle inquiries via email or Skype.)*
+**Office hours:** Tue. 12:00-14:00pm @Totem Field Studios 224, or by appointment.
+*(I can also handle inquiries via email or, in limited cases, Skype.)*
 
 **E-mail address:** muhammad.mageed@ubc.ca
 
-**iSchool@UBC Student Portal:** <http://canvas.ubc.ca>
+**Portal:** <http://canvas.ubc.ca>
 
 
 ## 1.	Course Rationale & Goal: 
@@ -61,25 +63,28 @@ Upon completion of this course students will be able to:
 * Applications: Simple text processing
 
 ## 4.	Prerequisites:  
-* MLIS and Dual MAS/MLIS: Completion of MLIS Core or permission of SLAIS Graduate Advisor
-* Access to a computer: There will be machines in the lab where class is held, but you will need to use your own machine or have access to a machine on a regular basis. You should make your own arrangements for this.
+* MLIS and Dual MAS/MLIS: Completion of MLIS Core or permission of
+iSchool Graduate Advisor *(prerequisite for iSchool students only)*
+* Access to a computer on a regular basis. You should make your own arrangements
+for this.
 
 ## 5.	Format of the course: 
 •	This course will involve lectures, class hands-on activities, individual and group work, and instructor-, peer-, and self-assessment. 
 
 ## 6. Course syllabus:
-**Required book:**
+**Recommended book:**
 
-* [Hetland](https://www.amazon.ca/Beginning-Python-Professional-Magnus-Hetland/dp/1484200292/ref=sr_1_1?ie=UTF8&qid=1502643391&sr=8-1&keywords=Beginning+Python%3A+from+novice+to+professional), M. L. (2006). Beginning Python: from novice to professional (3rd ed.). Apress.). ISBN-10: 1484200292. ISBN-13: 978-1484200292. *(Note we will use the *third edition (March 10 2017)* of the following book)*
+* [Hetland](https://www.amazon.ca/Beginning-Python-Professional-Magnus-Hetland/dp/1484200292/ref=sr_1_1?ie=UTF8&qid=1502643391&sr=8-1&keywords=Beginning+Python%3A+from+novice+to+professional), M. L. (2017). Beginning Python: from novice to professional (3rd ed.). Apress. ISBN-10: 1484200292. ISBN-13: 978-1484200292.
 
 
-**Suggested supplemental books:**
+**Suggested supplemental book:**
 
 * Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python. " O'Reilly Media, Inc.". (ISBN-13: 063-6920516491; ISBN-10: 0596516495) [nltk-book](http://www.nltk.org/book)
 
 **Online Tutorials:**
 
 - [Pandas](http://www.scipy-lectures.org/packages/statistics/index.html)
+- Tutorials linked in this syllabus.
 
 ## 7. Calendar / Weekly schedule and readings (tentative)
 
@@ -102,14 +107,14 @@ Upon completion of this course students will be able to:
 ## 8. Course Assignments/Grades:
 | Assignment | Due date | Weight |
 | ---------- | -------- | ------ |
-| Professionalization |  | 5% |
-| ASSIGNMENT 0: In-Class & Video Tutorial Code | Throughout weeks 2-11 | 30% |
+| Professionalization & attendance |  | 15% |
+| ASSIGNMENT 0: In-Class & Video Tutorial Code | Throughout weeks 2-11 | 15% |
 | Homework 1: | Sept. 26 | 10% |
 | Homework 2: | Oct 10 | 10% |
 | Homework 3: | Oct 31 | 10% |
 | ASSIGNMENT 4: Term Project (GROUP)| | |
 | Proposal/Outline | Nov 7 | 5% |
-| Report/Product | Nov 28 |30% |
+| Report/Product | Nov 28 |40% |
 
 
 **Notes about assignments:**
@@ -123,7 +128,8 @@ Upon completion of this course students will be able to:
 
 
 **Professionalization:**
-In an educational (or work) setting, each of us is expected to learn and demonstrate ability to interact with others professionally and collegially. This is important as it ensures we all work together efficiently. A total of 5% of your grade is devoted to encouraging professional communication related to the course both inside class (e.g., the way you interact with peers and the instructor) and outside class (responding to instructor communication timely). Practically, this means you should come to class in time, ensure your communication with everyone in class is civil, be attentive and do not engage in an external task or browse the social web during the class session, and respond to instructor email timely (e.g., not *consistently* responding after 3 days, but responding the same day or in 1 or 2 days is fine and an occasional delay within reason is also fine [e.g., if you are traveling]). Part of professionalization is clear communication. As such, you are encouraged to ask questions, feely and civilly agree/disagree with others, etc. 
+In an educational (or work) setting, each of us is expected to learn and demonstrate ability to interact with others professionally and collegially. This is important as it ensures we all work together efficiently. A total of 15% of your grade is devoted to the combination of attendance and encouraging professional communication related to the course both inside class (e.g., the way you interact with peers and the instructor) and outside class (responding to instructor communication timely). Practically, this means you should come to class in time, ensure your communication with everyone in class is civil, be attentive and do not engage in an external task or browse the social web during the class session, and respond to instructor email timely (e.g., not \emph{consistently} responding after 3 days, but responding the same day or in 1 or 2 days is fine and an occasional delay within reason is also fine [e.g., if you are traveling]). Part of professionalization is clear communication. As such, you are encouraged to ask questions, freely and civilly agree/disagree with others, etc. 
+
 
 **Assignment 0: In-Class & Video Tutorial Code**
 Throughout weeks 2-11, you are required to practice coding inside the class session. There will be time in-class devoted to practice where you will be able to a) extend examples the instructor provides in his slides/notebooks and/or b) run code from the Hetland book. The resulting code may end up having some mistakes, look unorganized, lack depth and illustrative examples for a given task, or look identical to what the code instructor provides. To help you write better code and acquire deeper understanding of programming concepts, you will be given the chance to spend some more time at home re-running the same code with more examples. To further enhance the process, the instructor will provide thematically-organized video tutorials that you are required to watch before working further on your in-class code. Once you watch the video relevant to a given week,  you can re-organize and tidy your code, provide depth and run it with more examples, and submit it.
@@ -132,6 +138,9 @@ This assignment is meant to engage you both during the class time and at home (w
 
 **Deliverables: In-class code snippets**
 A total of 10 code snippets in the form of ".py" or ".ipynb" files for the code you write based on In-Class practice + Watching Video Tutorials for weeks 2-11 of class.
+
+**Grading:** 
+Each code snippet (from each of the 10 weeks) will be worth 1.5 marks (total 15 marks). While students are required to submit the deliverables in time (as indicated above), the instructor will grade the deliverables together in two iterations (each 5 weeks' deliverables together. This is intended to simplify the process, while also sometimes allowing the instructor provide some flexibility in helping any students who may need additional help by allowing them to resubmit deliverables of specific weeks. 
 
 **Assignment 1-3: Coding assignments**
 These three assignments are coding exercises meant to support learning of the covered content. Each of these will be extensions of problems covered in class. The following criteria are required for each of them:
@@ -182,29 +191,45 @@ The final deliverable should include:
 
 **Attendance:** The UBC calendar states: “Regular attendance is expected of students in all their classes (including lectures, laboratories, tutorials, seminars, etc.). Students who neglect their academic work and assignments may be excluded from the final examinations. Students who are unavoidably absent because of illness or disability should report to their instructors on return to classes.”
 
-**Evaluation:** All assignments will be marked using the evaluative criteria given in this syllabus and also those provided on the SLAIS web site. 
-
-**Written & Spoken English Requirement:** Written and spoken work may receive a lower mark if it is, in the opinion of the instructor, deficient in English. 
+**Evaluation:** All assignments will be marked using the evaluative criteria given in this syllabus. 
 
 **Access & Diversity:** Access & Diversity works with the University to create an inclusive living and learning environment in which all students can thrive. The University accommodates students with disabilities who have registered with the [Access and Diversity unit](https://students.ubc.ca/about-student-services/access-diversity). You must register with the Disability Resource Centre to be granted special accommodations for any on-going conditions. 
 **Religious Accommodation:** The University accommodates students whose religious obligations conflict with attendance, submitting assignments, or completing scheduled tests and examinations. Please let your instructor know in advance, preferably in the first week of class, if you will require any accommodation on these grounds. Students who plan to be absent for varsity athletics, family obligations, or other similar commitments, cannot assume they will be accommodated, and should discuss their commitments with the instructor before the course drop date. [UBC policy on Religious Holidays](http://www.universitycounsel.ubc.ca/policies/policy65.pdf).
 
 ## Academic Integrity
-**Plagiarism**
-The Faculty of Arts considers plagiarism to be the most serious academic offence that a student can commit. Regardless of whether or not it was committed intentionally, plagiarism has serious academic consequences and can result in expulsion from the university. Plagiarism involves the improper use of somebody else's words or ideas in one's work. 
+he following material about academic misconduct is copied and pasted from the [UBC calendar](https://www.grad.ubc.ca/current-students/dissertation-thesis-preparation/plagiarism):
 
-It is your responsibility to make sure you fully understand what plagiarism is. Many students who think they understand plagiarism do in fact commit what UBC calls "reckless plagiarism." Below is an excerpt on reckless plagiarism from UBC Faculty of Arts' leaflet, [Plagiarism Avoided: Taking Responsibility for Your Work](http://www.arts.ubc.ca/arts-students/plagiarism-avoided.html).
+**academic misconduct**
+Students are responsible for informing themselves of the guidelines of acceptable and non-acceptable conduct for graded assignments established by their instructors for specific courses and of the examples of academic misconduct set out below. Academic misconduct that is subject to disciplinary measures includes, but is not limited to, engaging in, attempting to engage in, or assisting others to engage, in any of the actions described below.
 
-"The bulk of plagiarism falls into this category. Reckless plagiarism is often the result of careless research, poor time management, and a lack of confidence in your own ability to think critically. Examples of reckless plagiarism include:
+* **Cheating**, which may include, but is not limited to:
 
-* Taking phrases, sentences, paragraphs, or statistical findings from a variety of sources and piecing them together into an essay (piecemeal plagiarism);
-* Taking the words of another author and failing to note clearly that they are not your own. In other words, you have not put a direct quotation within quotation marks;
-* Using statistical findings without acknowledging your source;
-* Taking another author's idea, without your own critical analysis, and failing to acknowledge that this idea is not yours;
-* Paraphrasing (i.e. rewording or rearranging words so that your work resembles, but does not copy, the original) without acknowledging your source;
-* Using footnotes or material quoted in other sources as if they were the results of your own research; and
-* Submitting a piece of work with inaccurate text references, sloppy footnotes, or incomplete source (bibliographic) information."
+- falsification of any material subject to academic evaluation, including research data;
+- use of or participation in unauthorized collaborative work;
+- use or possession in an examination of any materials (including devices) other than those permitted by the examiner;
+- use, possession, or facilitation of unauthorized means to complete an examination (e.g., receiving unauthorized assistance from another person, or providing that assistance); and
+- dishonest practices that breach rules governing examinations or submissions for academic evaluation (see the Student Conduct during Examinations).
 
-Bear in mind that this is only one example of the different forms of plagiarism. Before preparing for their written assignments, students are strongly encouraged to familiarize themselves with the following source on plagiarism: the [Academic Integrity Resource Centre](http://help.library.ubc.ca/researching/academic-integrity).
+* **Plagiarism**, which is intellectual theft, occurs where an individual submits or presents the oral or written work of another person as his or her own. Scholarship quite properly rests upon examining and referring to the thoughts and writings of others. However, when another person's words (i.e. phrases, sentences, or paragraphs), ideas, or entire works are used, the author must be acknowledged in the text, in footnotes, in endnotes, or in another accepted form of academic citation. Where direct quotations are made, they must be clearly delineated (for example, within quotation marks or separately indented). Failure to provide proper attribution is plagiarism because it represents someone else's work as one's own. Plagiarism should not occur in submitted drafts or final works. A student who seeks assistance from a tutor or other scholastic aids must ensure that the work submitted is the student's own. Students are responsible for ensuring that any work submitted does not constitute plagiarism. Students who are in any doubt as to what constitutes plagiarism should consult their instructor before handing in any assignments.
 
-If after reading these materials you still are unsure about how to properly use sources in your work, please ask me for clarification. Students are held responsible for knowing and following all University regulations regarding academic dishonesty. If a student does not know how to properly cite a source or what constitutes proper use of a source it is the student's personal responsibility to obtain the needed information and to apply it within University guidelines and policies. If evidence of academic dishonesty is found in a course assignment, previously submitted work in this course may be reviewed for possible academic dishonesty and grades modified as appropriate. UBC policy requires that all suspected cases of academic dishonesty must be forwarded to the Dean for possible action. 
+* Submitting the same, or substantially the same, essay, presentation, or assignment more than once (whether the earlier submission was at this or another institution) unless prior approval has been obtained from the instructor(s) to whom the assignment is to be submitted.
+
+* Impersonating a candidate at an examination or other evaluation, facilitating the impersonation of a candidate, or availing oneself of the results of an impersonation.
+
+* ubmitting false records or information, orally or in writing, or failing to provide relevant information when requested.
+
+* Falsifying or submitting false documents, transcripts, or other academic credentials.
+Failing to comply with any disciplinary measure imposed for academic misconduct.
+
+***Websites to help you understand plagiarism:***
+
+- UBC Learning Commons: [Avoid Plagiarism](https://learningcommons.ubc.ca/resource-guides/avoid-plagiarism/) 
+
+- UBC Wiki: [How to avoid plagiarism](https://wiki.ubc.ca/LFS:Plagiarism)
+
+
+***Additional UBC resources on plagiarism and academic integrity***
+
+- [UBC Learning Commons](https://learningcommons.ubc.ca/academic-integrity/)
+
+***If after reading these materials you still are unsure about how to properly use sources in your work, please ask me for clarification. Students are held responsible for knowing and following all University regulations regarding academic dishonesty. If a student does not know how to properly cite a source or what constitutes proper use of a source it is the student's personal responsibility to obtain the needed information and to apply it within University guidelines and policies. If evidence of academic dishonesty is found in a course assignment, previously submitted work in this course may be reviewed for possible academic dishonesty and grades modified as appropriate. UBC policy requires that all suspected cases of academic dishonesty must be forwarded to the Dean for possible action***
