@@ -90,31 +90,31 @@ for this.
 
 | Week | Date   | Topic                            | Readings  / Slides     | What is due/out            |
 |------|--------|----------------------------------|----------------|----------------------------|
-| 1    | 5-Sep  | Course overview & Unix Intro.    | No readings / [slides_0](https://github.com/mageed/libr559cWI2018/blob/master/slides/mam_unix.pptx); [vid_1](https://drive.google.com/file/d/0Bx7LW_LCYVXxaERSQWxwVTlTTGs/view?usp=sharing); [vid_2](https://www.youtube.com/watch?v=Ms5sNYyejEw)|                            |
-| 2    | 12-Sep | Python Intro., Editors &Literals | Hetland CH01 / [slides_1](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_one.ipynb); [vid_3](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (literals_stings.mov) | hw 1 out               |
-| 3    | 19-Sep | Sequences (Lists & Tuples) | Hetland CH02 / [slides_2](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_two.ipynb)  & [slides_3](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_three.ipynb); [vid_4](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (revision_lists_tuples.mov) |                            |
-| 4    | 26-Sep | Sequences (Strings) | Hetland CH03 / [slides_4](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_four.ipynb)  | hw 1 due; hw 2 out |
-| 5    | 3-Oct  | Dictionaries                     | Hetland CH04 / [slides_5](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_five.ipynb); [vid_5](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) |                            |
-| 6    | 10-Oct | Conditionals & Loops             | Hetland CH05 / [slides_6](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_six.ipynb) | hw 2 due |
-| 7    | 17-Oct | Functions                        | Hetland CH06 / [slides_7](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_seven.ipynb) |        hw 3 out                    |
-| 8    | 24-Oct | Revision & Project Discussion    | No readings    |               |
-| 9    |31-Oct| Exceptions                       | Hetland CH08 /[slides_9](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_nine.ipynb)  |     hw 3 due                       |
-| 10   | 7-Nov  | Modules                          | Hetland CH10 /[slides_10](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_ten.ipynb)  | Project outline due        |
-| 11   | 14-Nov  | Files                            | Hetland CH11 /[slides_11](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_eleven.ipynb)  |                            |
-| 12   | 21-Nov  | Text processing                  | nltk-book CH03 / [slides_12](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_twelve.ipynb) |                            |
-| 13   | 28-Nov | Revision & Project Work          | No readings    | Final paper due                          |
+| 1    | 4-Sep  | Course overview & Unix Intro.    | No readings / [slides_0](https://github.com/mageed/libr559cWI2018/blob/master/slides/mam_unix.pptx); [vid_1](https://drive.google.com/file/d/0Bx7LW_LCYVXxaERSQWxwVTlTTGs/view?usp=sharing); [vid_2](https://www.youtube.com/watch?v=Ms5sNYyejEw)|                            |
+| 2    | 11-Sep | Python Intro., Editors &Literals | Hetland CH01 / [slides_1](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_one.ipynb); [vid_3](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (literals_stings.mov) | hw 1 out               |
+| 3    | 18-Sep | Sequences (Lists & Tuples) | Hetland CH02 / [slides_2](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_two.ipynb)  & [slides_3](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_three.ipynb); [vid_4](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (revision_lists_tuples.mov) |                            |
+| 4    | 25-Sep | Sequences (Strings) | Hetland CH03 / [slides_4](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_four.ipynb)  | hw 1 due; hw 2 out |
+| 5    | 2-Oct  | Dictionaries                     | Hetland CH04 / [slides_5](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_five.ipynb); [vid_5](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) |                            |
+| 6    | 9-Oct | Conditionals & Loops             | Hetland CH05 / [slides_6](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_six.ipynb) | hw 2 due |
+| 7    | 16-Oct | Functions                        | Hetland CH06 / [slides_7](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_seven.ipynb) |        hw 3 out                    |
+| 8    | 23-Oct | Revision & Project Discussion    | No readings    |               |
+| 9    |30-Oct| Exceptions                       | Hetland CH08 /[slides_9](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_nine.ipynb)  |     hw 3 due                       |
+| 10   | 6-Nov  | Modules                          | Hetland CH10 /[slides_10](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_ten.ipynb)  | Project outline due        |
+| 11   | 13-Nov  | Files                            | Hetland CH11 /[slides_11](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_eleven.ipynb)  |                            |
+| 12   | 20-Nov  | Text processing                  | nltk-book CH03 / [slides_12](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_twelve.ipynb) |                            |
+| 13   | 27-Nov | Revision & Project Work          | No readings    | Final paper due                          |
 
 ## 8. Course Assignments/Grades:
 | Assignment | Due date | Weight |
 | ---------- | -------- | ------ |
 | Professionalization & attendance |  | 15% |
 | ASSIGNMENT 0: In-Class & Video Tutorial Code | Throughout weeks 2-11 | 15% |
-| Homework 1: | Sept. 26 | 10% |
-| Homework 2: | Oct 10 | 10% |
-| Homework 3: | Oct 31 | 10% |
+| Homework 1: | Sept. 25 | 10% |
+| Homework 2: | Oct 9 | 10% |
+| Homework 3: | Oct 30 | 10% |
 | ASSIGNMENT 4: Term Project (GROUP)| | |
-| Proposal/Outline | Nov 7 | 5% |
-| Report/Product | Nov 28 |40% |
+| Proposal/Outline | Nov 6 | 5% |
+| Report/Product | Nov 27 |40% |
 
 
 **Notes about assignments:**
