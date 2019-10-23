@@ -111,9 +111,9 @@ for this.
 | ASSIGNMENT 0: In-Class & Video Tutorial Code | Throughout weeks 2-11 | 15% |
 | Homework 1: | Sept. 25 | 10% |
 | Homework 2: | Oct 9 | 10% |
-| Homework 3: | Oct 30 | 10% |
+| Homework 3: | Nov 6 | 10% |
 | ASSIGNMENT 4: Term Project (GROUP)| | |
-| Proposal/Outline | Nov 6 | 5% |
+| Proposal/Outline | Nov 6 | not graded |
 | Report/Product | Nov 27 |40% |
 
 
