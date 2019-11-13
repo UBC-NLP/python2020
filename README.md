@@ -100,7 +100,7 @@ for this.
 | 8    | 23-Oct | Revision & Project Discussion    | No readings    |       hw 3 out        |
 | 9    |30-Oct| Exceptions                       | Hetland CH08 /[slides_9](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_nine.ipynb)  |                            |
 | 10   | 6-Nov  | Modules                          | Hetland CH10 /[slides_10](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_ten.ipynb)  | hw 3 due, Project outline due        |
-| 11   | 13-Nov  | Files                            | Hetland CH11 /[slides_11](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_eleven.ipynb); [files_vid_1](https://drive.google.com/drive/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs); [files_vid_2](https://drive.google.com/drive/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs)   |                            |
+| 11   | 13-Nov  | Files                            | Hetland CH11 /[slides_11](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_eleven.ipynb); [file_practice](https://github.com/mageed/libr559dWII2018/blob/master/slides/sentiment_rule_based_classifier.ipynb); [files_vid_1](https://drive.google.com/drive/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs); [files_vid_2](https://drive.google.com/drive/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs)   |                            |
 | 12   | 20-Nov  | Text processing                  | nltk-book CH03 / [slides_12](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_twelve.ipynb) |                            |
 | 13   | 27-Nov | Revision & Project Work          | No readings    | Final paper due                          |
 
