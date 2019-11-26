@@ -102,7 +102,7 @@ for this.
 | 10   | 6-Nov  | Modules                          | Hetland CH10 /[slides_10](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_ten.ipynb)  | hw 3 due, Project outline due        |
 | 11   | 13-Nov  | Files                            | Hetland CH11 /[slides_11](https://github.com/UBC-NLP/python2019/tree/master/slides/unit_eleven.ipynb); [file_practice](https://github.com/mageed/libr559dWII2018/blob/master/slides/sentiment_rule_based_classifier.ipynb); [files_vid_1](https://drive.google.com/drive/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs); [files_vid_2](https://drive.google.com/drive/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs)   |                            |
 | 12   | 20-Nov  | Text processing                  | nltk-book CH03 / [slide_12](https://github.com/UBC-NLP/python2019/blob/master/slides/unit_twelve.ipynb); [file_practice](https://github.com/mageed/libr559dWII2018/blob/master/slides/sentiment_rule_based_classifier.ipynb); [sorting_vid](https://drive.google.com/open?id=1uP943uZl7UZtexTmXzvIQzxB80-wFmRS) ; [read_lex_vid1](https://drive.google.com/open?id=0Bx7LW_LCYVXxVkxfZmh5U2JYU2s); [read_lex_vid2](https://drive.google.com/open?id=0Bx7LW_LCYVXxcHVVTXYxOUtNTEU) |                            |
-| 13   | 27-Nov | Revision & Project Work          | No readings    | Final paper due                          |
+| 13   | 27-Nov | Revision & Project Work          | No readings    | Final paper due Dec. 1st at 11:59 pm|
 
 ## 8. Course Assignments/Grades:
 | Assignment | Due date | Weight |
@@ -114,7 +114,7 @@ for this.
 | Homework 3: | Nov 6 | 10% |
 | ASSIGNMENT 4: Term Project (GROUP)| | |
 | Proposal/Outline | Nov 6 | not graded |
-| Report/Product | Nov 27 |40% |
+| Report/Product | Dec. 1 |40% |
 
 
 **Notes about assignments:**
