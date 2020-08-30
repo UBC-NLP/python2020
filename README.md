@@ -110,8 +110,9 @@ for this.
 | 13   | 25-Nov | Revision & Project Work          | No readings    | Final paper due Dec. 1st at 11:59 pm|
 
 ## 7.B Ask Me Lab-Fashion Schedule (Extra Office Hours)
-```To provide additional support, the instructorr have arranged additional office hours to be offered by the TA.
-The schedule for the term is provided below.```
+
+
+```To provide additional support, the instructorr have arranged additional office hours to be offered by the TA. The schedule for the term is provided below.```
 
 | Week | Date   | Time                            | 
 |------|--------|----------------------------------|
