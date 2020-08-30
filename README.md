@@ -1,4 +1,4 @@
-# Python Programming,
+# Python Programming
 ## School of Information & Department of Linguistics
 ## The University of British Columbia
 
@@ -91,7 +91,7 @@ for this.
 - [Pandas](http://www.scipy-lectures.org/packages/statistics/index.html)
 - Tutorials linked in this syllabus.
 
-## 7. Calendar / Weekly schedule and readings (tentative)
+## 7.A Calendar / Weekly schedule and readings (tentative)
 
 | Week | Date   | Topic                            | Readings  / Slides     | What is due/out            |
 |------|--------|----------------------------------|----------------|----------------------------|
@@ -108,6 +108,16 @@ for this.
 | 11   | 11-Nov  | Files                            | Hetland CH11 /[slides_11](https://github.com/UBC-NLP/python2019/tree/master/slides/unit_eleven.ipynb); [file_practice](https://github.com/mageed/libr559dWII2018/blob/master/slides/sentiment_rule_based_classifier.ipynb); [files_vid_1](https://drive.google.com/drive/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs); [files_vid_2](https://drive.google.com/drive/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs)   |                            |
 | 12   | 18-Nov  | Text processing                  | nltk-book CH03 / [slide_12](https://github.com/UBC-NLP/python2019/blob/master/slides/unit_twelve.ipynb); [file_practice](https://github.com/mageed/libr559dWII2018/blob/master/slides/sentiment_rule_based_classifier.ipynb); [sorting_vid](https://drive.google.com/open?id=1uP943uZl7UZtexTmXzvIQzxB80-wFmRS) ; [read_lex_vid1](https://drive.google.com/open?id=0Bx7LW_LCYVXxVkxfZmh5U2JYU2s); [read_lex_vid2](https://drive.google.com/open?id=0Bx7LW_LCYVXxcHVVTXYxOUtNTEU) |                            |
 | 13   | 25-Nov | Revision & Project Work          | No readings    | Final paper due Dec. 1st at 11:59 pm|
+
+## 7.B Ask Me Lab-Fashion Schedule (Extra Office Hours)
+```To provide additional support, the instructorr have arranged additional office hours to be offered by the TA.
+The schedule for the term is provided below.```
+
+| Week | Date   | Time                            | 
+|------|--------|----------------------------------|
+| 1   | 9-Sep   | xxxx | 
+
+
 
 ## 8. Course Assignments/Grades:
 | Assignment | Due date | Weight |
