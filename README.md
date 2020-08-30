@@ -6,11 +6,16 @@
 
 **Program:** iSchool (MLIS, Dual). Linguistics graduate programs
 
-**Year:** Winter Session I 2019
+**Year:** Winter Session I 2020
 
 **Time:** Wed. 9:00–11:50 p.m.
 
-**Location:** iSchool Terrace Lab 
+```Time Breakdown```
+
+***Watch recorded video:*** 9:00-10:30
+***Live Q & A:*** 10:30-11:50
+
+**Location:** Zoom
 
 **Instructor:** Dr. Muhammad Abdul-Mageed
 
@@ -19,8 +24,8 @@
 
 **Office phone:** (Apologies, I do not use office phone. Please email me)
 
-**Office hours:** Tue. 12:00-14:00pm @Totem Field Studios 224, or by appointment.
-*(I can also handle inquiries via email or, in limited cases, Skype.)*
+**Office hours:** Wed. 12:00-14:00pm @Zoom (see on Canvas for my personal meeting room)
+*(I can also handle inquiries via email or Zoom.)*
 
 **E-mail address:** muhammad.mageed@ubc.ca
 
@@ -90,19 +95,19 @@ for this.
 
 | Week | Date   | Topic                            | Readings  / Slides     | What is due/out            |
 |------|--------|----------------------------------|----------------|----------------------------|
-| 1    | 4-Sep  | Course overview & Unix Intro.    | No readings / [slides_0](https://github.com/mageed/libr559cWI2018/blob/master/slides/mam_unix.pptx); [vid_1](https://drive.google.com/file/d/0Bx7LW_LCYVXxaERSQWxwVTlTTGs/view?usp=sharing); [vid_2](https://www.youtube.com/watch?v=Ms5sNYyejEw)|                            |
-| 2    | 11-Sep | Python Intro., Editors &Literals | Hetland CH01 / [slides_1](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_one.ipynb); [vid_3](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (literals_stings.mov) | hw 1 out               |
-| 3    | 18-Sep | Sequences (Lists & Tuples) | Hetland CH02 / [slides_2](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_two.ipynb)  & [slides_3](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_three.ipynb); [vid_4](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (revision_lists_tuples.mov) |                            |
-| 4    | 25-Sep | Sequences (Strings) | Hetland CH03 / [slides_4](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_four.ipynb)  | hw 1 due; hw 2 out |
-| 5    | 2-Oct  | Dictionaries                     | Hetland CH04 / [slides_5](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_five.ipynb); [vid_5](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) |                            |
-| 6    | 9-Oct | Conditionals & Loops             | Hetland CH05 / [slides_6](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_six.ipynb) | hw 2 due |
-| 7    | 16-Oct | Functions                        | Hetland CH06 / [slides_7](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_seven.ipynb) |                            |
-| 8    | 23-Oct | Revision & Project Discussion    | No readings    |       hw 3 out        |
+| 1    | 9-Sep  | Course overview & Unix Intro.    | No readings / [slides_0](https://github.com/mageed/libr559cWI2018/blob/master/slides/mam_unix.pptx); [vid_1](https://drive.google.com/file/d/0Bx7LW_LCYVXxaERSQWxwVTlTTGs/view?usp=sharing); [vid_2](https://www.youtube.com/watch?v=Ms5sNYyejEw)|                            |
+| 2    | 16-Sep | Python Intro., Editors &Literals | Hetland CH01 / [slides_1](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_one.ipynb); [vid_3](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (literals_stings.mov) | hw 1 out               |
+| 3    | 23-Sep | Sequences (Lists & Tuples) | Hetland CH02 / [slides_2](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_two.ipynb)  & [slides_3](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_three.ipynb); [vid_4](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (revision_lists_tuples.mov) |                            |
+| 4    | 30-Sep | Sequences (Strings) | Hetland CH03 / [slides_4](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_four.ipynb)  | hw 1 due; hw 2 out |
+| 5    | 7-Oct  | Dictionaries                     | Hetland CH04 / [slides_5](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_five.ipynb); [vid_5](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) |                            |
+| 6    | 14-Oct | Conditionals & Loops             | Hetland CH05 / [slides_6](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_six.ipynb) | hw 2 due |
+| 7    | 21-Oct | Functions                        | Hetland CH06 / [slides_7](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_seven.ipynb) |                            |
+| 8    | 28-Oct | Revision & Project Discussion    | No readings    |       hw 3 out        |
 | 9    |30-Oct| Exceptions                       | Hetland CH08 /[slides_9](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_nine.ipynb)  |                            |
-| 10   | 6-Nov  | Modules                          | Hetland CH10 /[slides_10](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_ten.ipynb)  | hw 3 due, Project outline due        |
-| 11   | 13-Nov  | Files                            | Hetland CH11 /[slides_11](https://github.com/UBC-NLP/python2019/tree/master/slides/unit_eleven.ipynb); [file_practice](https://github.com/mageed/libr559dWII2018/blob/master/slides/sentiment_rule_based_classifier.ipynb); [files_vid_1](https://drive.google.com/drive/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs); [files_vid_2](https://drive.google.com/drive/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs)   |                            |
-| 12   | 20-Nov  | Text processing                  | nltk-book CH03 / [slide_12](https://github.com/UBC-NLP/python2019/blob/master/slides/unit_twelve.ipynb); [file_practice](https://github.com/mageed/libr559dWII2018/blob/master/slides/sentiment_rule_based_classifier.ipynb); [sorting_vid](https://drive.google.com/open?id=1uP943uZl7UZtexTmXzvIQzxB80-wFmRS) ; [read_lex_vid1](https://drive.google.com/open?id=0Bx7LW_LCYVXxVkxfZmh5U2JYU2s); [read_lex_vid2](https://drive.google.com/open?id=0Bx7LW_LCYVXxcHVVTXYxOUtNTEU) |                            |
-| 13   | 27-Nov | Revision & Project Work          | No readings    | Final paper due Dec. 1st at 11:59 pm|
+| 10   | 4-Nov  | Modules                          | Hetland CH10 /[slides_10](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_ten.ipynb)  | hw 3 due, Project outline due        |
+| 11   | 11-Nov  | Files                            | Hetland CH11 /[slides_11](https://github.com/UBC-NLP/python2019/tree/master/slides/unit_eleven.ipynb); [file_practice](https://github.com/mageed/libr559dWII2018/blob/master/slides/sentiment_rule_based_classifier.ipynb); [files_vid_1](https://drive.google.com/drive/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs); [files_vid_2](https://drive.google.com/drive/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs)   |                            |
+| 12   | 18-Nov  | Text processing                  | nltk-book CH03 / [slide_12](https://github.com/UBC-NLP/python2019/blob/master/slides/unit_twelve.ipynb); [file_practice](https://github.com/mageed/libr559dWII2018/blob/master/slides/sentiment_rule_based_classifier.ipynb); [sorting_vid](https://drive.google.com/open?id=1uP943uZl7UZtexTmXzvIQzxB80-wFmRS) ; [read_lex_vid1](https://drive.google.com/open?id=0Bx7LW_LCYVXxVkxfZmh5U2JYU2s); [read_lex_vid2](https://drive.google.com/open?id=0Bx7LW_LCYVXxcHVVTXYxOUtNTEU) |                            |
+| 13   | 25-Nov | Revision & Project Work          | No readings    | Final paper due Dec. 1st at 11:59 pm|
 
 ## 8. Course Assignments/Grades:
 | Assignment | Due date | Weight |
@@ -128,7 +133,7 @@ for this.
 
 
 **Professionalization:**
-In an educational (or work) setting, each of us is expected to learn and demonstrate ability to interact with others professionally and collegially. This is important as it ensures we all work together efficiently. A total of 15% of your grade is devoted to the combination of attendance and encouraging professional communication related to the course both inside class (e.g., the way you interact with peers and the instructor) and outside class (responding to instructor communication timely). Practically, this means you should come to class in time, ensure your communication with everyone in class is civil, be attentive and do not engage in an external task or browse the social web during the class session, and respond to instructor email timely (e.g., not \emph{consistently} responding after 3 days, but responding the same day or in 1 or 2 days is fine and an occasional delay within reason is also fine [e.g., if you are traveling]). Part of professionalization is clear communication. As such, you are encouraged to ask questions, freely and civilly agree/disagree with others, etc. 
+In an educational (or work) setting, each of us is expected to learn and demonstrate ability to interact with others professionally and collegially. This is important as it ensures we all work together efficiently. A total of 15% of your grade is devoted to the combination of attendance and encouraging professional communication related to the course both inside the virtual class (e.g., the way you interact with peers and the instructor) and outside the virtual class (responding to instructor communication timely). Practically, this means you should come to the virtual class in time, ensure your communication with everyone in class is civil, be attentive and do not engage in an external task or browse the social web during the class session, and respond to instructor email timely (e.g., not \emph{consistently} responding after 3 days, but responding the same day or in 1 or 2 days is fine and an occasional delay within reason is also fine [e.g., if you are traveling]). Part of professionalization is clear communication. As such, you are encouraged to ask questions, freely and civilly agree/disagree with others, etc. 
 
 
 **Assignment 0: In-Class & Video Tutorial Code**
