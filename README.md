@@ -99,7 +99,7 @@ for this.
 | 2    | 16-Sep | Python Intro., Editors &Literals | Hetland CH01 / [slides_1](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_one.ipynb); [vid_3](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (literals_stings.mov) | hw 1 out               |
 | 3    | 23-Sep | Sequences (Lists & Tuples) | Hetland CH02 / [slides_2](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_two.ipynb)  & [slides_3](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_three.ipynb); [vid_4](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) (revision_lists_tuples.mov) |                            |
 | 4    | 30-Sep | Sequences (Strings) | Hetland CH03 / [slides_4](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_four.ipynb)  | hw 1 due; hw 2 out |
-| 5    | 7-Oct  | Dictionaries                     | Hetland CH04 / [slides_5](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_five.ipynb); [vid_5](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) |                            |
+| 5    | 1-Oct  | Dictionaries                     | Hetland CH04 / [slides_5](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_five.ipynb); [vid_5](https://drive.google.com/drive/u/1/folders/0Bx7LW_LCYVXxLW1uWG1KRml1SGs) |                            |
 | 6    | 14-Oct | Conditionals & Loops             | Hetland CH05 / [slides_6](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_six.ipynb) | hw 2 due |
 | 7    | 21-Oct | Functions                        | Hetland CH06 / [slides_7](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_seven.ipynb) |                            |
 | 8    | 28-Oct | Revision & Project Discussion    | No readings    |       hw 3 out        |
@@ -112,12 +112,22 @@ for this.
 ## 7.B Ask Me Lab-Fashion Schedule (Extra Office Hours)
 
 
-```To provide additional support, the instructorr have arranged additional office hours to be offered by the TA. The schedule for the term is provided below.```
+```To provide additional support, the instructor have arranged additional office hours to be offered by the TA. The schedule for the term is provided below.```
 
 | Week | Date   | Time                            | 
 |------|--------|----------------------------------|
-| 1   | 9-Sep   | xxxx | 
-
+| 1   | 10-Sep   | 10 am-11am, 4pm-5pm | 
+| 2   | 17-Sep   | 10 am-11am, 4pm-5pm | 
+| 3   | 24-Sep   | 10 am-11am, 4pm-5pm | 
+| 4   | 1-Oct   | 10 am-11am, 4pm-5pm | 
+| 5   | 8-Oct   | 10 am-11am, 4pm-5pm | 
+| 6   | 15-Oct   | 10 am-11am, 4pm-5pm | 
+| 7   | 22-Oct   | 10 am-11am, 4pm-5pm | 
+| 8   | 29-Oct   | 10 am-11am, 4pm-5pm | 
+| 9   | 5-Nov   | 10 am-11am, 4pm-5pm | 
+| 10   | 12-Nov   | 10 am-11am, 4pm-5pm | 
+| 11   | 19-Nov   | 10 am-11am, 4pm-5pm | 
+| 12   | 26-Nov   | 10 am-11am, 4pm-5pm | 
 
 
 ## 8. Course Assignments/Grades:
