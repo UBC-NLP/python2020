@@ -17,6 +17,8 @@
 
 **Teaching Mode:** Synchronous via Zoom + Asynchronous (Mediated via Canvas)
 
+**See "pdf" syllabus on Canvas for Zoom meeting link and passcode**
+
 **COVID-19 Teaching Mode Remark:** 
 The instructor may need to switch teaching modes should unexpected emergencies arise in his family circle. I borrow the following notes on teaching mode policy from FRST 430/533C (Advanced Biometrics):
 
@@ -30,8 +32,8 @@ The instructor may need to switch teaching modes should unexpected emergencies a
 
 **Office phone:** (Apologies, I do not use office phone. Please email me)
 
-**Office hours:** Wed. 12:00-14:00pm @Zoom (see on Canvas for my personal meeting room)
-*(I can also handle inquiries via email or Zoom.)*
+**Office hours:** Wed. 12:00-14:00pm @Zoom (See zoom link and passcode in the pdf syllabus on Canvas)
+*(I can also handle inquiries via email or arrange a Zoom meeting at a different time.)*
 
 **E-mail address:** muhammad.mageed@ubc.ca
 
