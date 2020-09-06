@@ -123,7 +123,7 @@ for this.
 ## 7.B Ask Me Lab-Fashion Schedule (Extra Office Hours)
 
 
-```To provide additional support, the instructor will arrange additional "office hours" to be offered by a number of Deep Learning & NLP Team Mebmbers. The schedule for the term will be provided below. The below is tentative.```
+```To provide additional support, the instructor will arrange additional "office hours" to be offered by a number of Deep Learning & NLP Team Mebmbers. The schedule for the term will be provided below. The below is justt a mock-up.```
 
 | Week | Date   | Time                            | 
 |------|--------|----------------------------------|
