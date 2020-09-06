@@ -121,7 +121,7 @@ for this.
 ## 7.B Ask Me Lab-Fashion Schedule (Extra Office Hours)
 
 
-```To provide additional support, the instructor have arranged additional office hours to be offered by the TA. The schedule for the term is provided below.```
+```To provide additional support, the instructor will arrange additional "office hours" to be offered by a number of Deep Learning & NLP Team Mebmbers. The schedule for the term will be provided below. The below is tentative.```
 
 | Week | Date   | Time                            | 
 |------|--------|----------------------------------|
@@ -183,7 +183,7 @@ Each code snippet (from each of the 10 weeks) will be worth 1.5 marks (total 15 
 **Assignment 1-3: Coding assignments**
 These three assignments are coding exercises meant to support learning of the covered content. Each of these will be extensions of problems covered in class. The following criteria are required for each of them:
 
-* You must run your code before submitting, and ensure it is working code. Also, you should provide evidence that your code runs well (e.g., the result of each snippet when run or first 5/few lines of output in the case of large amounts of output). The code should be submitted in the form of ".py" or ".ipynb" files.
+* You must run your code before submitting, and ensure it is working code. Also, you should provide evidence that your code runs well (e.g., the result of each snippet when run or first 5/few lines of output in the case of large amounts of output). The code should be submitted in the form of ".py" or ".ipynb" files, in addition to a "pdf" version of the same code file.
 * For each problem, in addition to your code, you should provide explanatory Python comments as appropriate. Your comments should be short and to-the-point. As a programmer, you should develop a sense as to when to use comments and when not. This requirement is meant to teach you about using comments. Using comments will be discussed in class and feedback on your deliverables will be provided. 
 * In addition to the functionality of your code, you should care for algorithms and style. This means, over time, you are expected to develop a sense of what the best ways to solve a problem in a computationally efficient way and using the capabilities of the Python programming language. These are aspects that will be discussed in class over the course of the semester.
 
