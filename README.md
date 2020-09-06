@@ -15,7 +15,13 @@
 ***Watch recorded video:*** 9:00-10:30
 ***Live Q & A:*** 10:30-11:50
 
-**Location:** Zoom
+**Teaching Mode:** Synchronous via Zoom + Asynchronous (Mediated via Canvas)
+
+**COVID-19 Teaching Mode Remark:** 
+The instructor may need to switch teaching modes should unexpected emergencies arise in his family circle. I borrow the following notes on teaching mode policy from FRST 430/533C (Advanced Biometrics):
+
+"We are all aware that the impact of COVID-19 has been devastating on all of our lives and communities. Class instruction of primary and secondary schools is planned to resume in person in September. Yet, as we move towards the cooler months, indoor activities will increase and it is likely that the Province of British Columbia will continue to adjust its guidance with regards to schools, work, and recreation activities. Therefore, it is important that I plan for contingencies, should circumstances change and I am unable to hold live online lectures and activities as outlined above. Rest assured, details on changes will be posted on Canvas if this happens and I will be as transparent and clear as possible in my expectations if these changes are required to occur." *Kindly provided by Heather O’Brien and communicated by Erik Kwakkel.*
+
 
 **Instructor:** Dr. Muhammad Abdul-Mageed
 
@@ -30,6 +36,9 @@
 **E-mail address:** muhammad.mageed@ubc.ca
 
 **Portal:** <http://canvas.ubc.ca>
+
+**School of Information Welcome Page:** 
+The School of Information has a Welcome Page for new students (\url{https://ischool.ubc.ca/welcome/}), which captures a lot of information to new and returning students get settled. You may find the information therein useful.
 
 
 ## 1.	Course Rationale & Goal: 
@@ -133,7 +142,7 @@ for this.
 ## 8. Course Assignments/Grades:
 | Assignment | Due date | Weight |
 | ---------- | -------- | ------ |
-| Professionalization & attendance |  | 15% |
+| Professionalization & online class attendance |  | 15% |
 | ASSIGNMENT 0: In-Class & Video Tutorial Code | Throughout weeks 2-11 | 15% |
 | Homework 1: | Sept. 25 | 10% |
 | Homework 2: | Oct 9 | 10% |
@@ -146,7 +155,8 @@ for this.
 **Notes about assignments:**
 
 * All written assignments must be submitted before 9:00 am of a respective assignment date;
-* All coding assignments must be submitted in print form as well as the form of a Python script (either .py file or an "iPython/Jupyter notebook"). Support will be provided on how to create ".py" scripts and iPython notebooks;
+* All coding assignments must be submitted in "pdf" form as well as the form of a Python script (either .py file or an "iPython/Jupyter notebook"). Support will be provided on how to create ".py" scripts and iPython notebooks;
+* Note: If you need help converting/printing your python code file into "pdf", please check online but also feel free to ask the instructor.
 * Project proposal/outline must be in a pdf format;
 * All submitted files should be labeled with your last name(s) followed by an underscore and an assignment code. Assignment codes are two digit numbers, i.e., the assignment number preceeded by "0" for readability (e.g., “assignment01,” “asignment02,”). *For example, "ASSIGNMENT 01" would be submitted as “abdul-mageed_assignment01.ipynb”*
 
@@ -154,16 +164,18 @@ for this.
 
 
 **Professionalization:**
-In an educational (or work) setting, each of us is expected to learn and demonstrate ability to interact with others professionally and collegially. This is important as it ensures we all work together efficiently. A total of 15% of your grade is devoted to the combination of attendance and encouraging professional communication related to the course both inside the virtual class (e.g., the way you interact with peers and the instructor) and outside the virtual class (responding to instructor communication timely). Practically, this means you should come to the virtual class in time, ensure your communication with everyone in class is civil, be attentive and do not engage in an external task or browse the social web during the class session, and respond to instructor email timely (e.g., not \emph{consistently} responding after 3 days, but responding the same day or in 1 or 2 days is fine and an occasional delay within reason is also fine [e.g., if you are traveling]). Part of professionalization is clear communication. As such, you are encouraged to ask questions, freely and civilly agree/disagree with others, etc. 
+In an educational (or work) setting, each of us is expected to learn and demonstrate ability to interact with others professionally and collegially. This is important as it ensures we all work together efficiently. A total of 15% of your grade is devoted to the combination of online class attendance and encouraging professional communication related to the course both inside the virtual class (e.g., the way you interact with peers and the instructor) and outside the virtual class (responding to instructor communication timely). Practically, this means you should come to the virtual class in time, ensure your communication with everyone in class is civil, be attentive and do not engage in an external task or browse the social web during the class session, and respond to instructor email timely (e.g., not \emph{consistently} responding after 3 days, but responding the same day or in 1 or 2 days is fine and an occasional delay within reason is also fine [e.g., if you are traveling]). Part of professionalization is clear communication. As such, you are encouraged to ask questions, freely and civilly agree/disagree with others, etc. 
 
+### *Should you have any issues that impede your ability to attend any of the virtual class synchronous sessions, you are requested to inform the instructor. The instructor will then work with you to find solutions.*
 
 **Assignment 0: In-Class & Video Tutorial Code**
 Throughout weeks 2-11, you are required to practice coding inside the class session. There will be time in-class devoted to practice where you will be able to a) extend examples the instructor provides in his slides/notebooks and/or b) run code from the Hetland book. The resulting code may end up having some mistakes, look unorganized, lack depth and illustrative examples for a given task, or look identical to what the code instructor provides. To help you write better code and acquire deeper understanding of programming concepts, you will be given the chance to spend some more time at home re-running the same code with more examples. To further enhance the process, the instructor will provide thematically-organized video tutorials that you are required to watch before working further on your in-class code. Once you watch the video relevant to a given week,  you can re-organize and tidy your code, provide depth and run it with more examples, and submit it.
 
-This assignment is meant to engage you both during the class time and at home (where you can involve in content explained in a differnt mode and engage at your chosen time and place). The goal is to ensure you are not only able to run code shared with you during a given session, but also extend it slightly. This assignment is only accepted if you attend class. If you miss a class, this automatically means you are not allowed to submit In-Class & Video Tutorial Code for the session/sessions you missed. As such, failure to attend class without excuse (e.g., a sickness or another emergency which you must explain to the instructor over email prior to a class whenever possible) will result in a lower class grade. *Note: The Video Tutorials are typically short (between 15-30 minutes long each).*
+This assignment is meant to engage you both during the class time and at home (where you can involve in content explained in a differnt mode and engage at your chosen time and place). The goal is to ensure you are not only able to run code shared with you during a given session, but also extend it slightly. This assignment is only accepted if you attend class. If you miss a class, this automatically means you are not allowed to submit In-Class & Video Tutorial Code for the session/sessions you missed. As such, failure to attend class without excuse (e.g., a sickness or another emergency which you must explain to the instructor over email prior to a class whenever possible) will result in a lower class grade. 
 
 **Deliverables: In-class code snippets**
-A total of 10 code snippets in the form of ".py" or ".ipynb" files for the code you write based on In-Class practice + Watching Video Tutorials for weeks 2-11 of class.
+(Note: In-Class means in virtual class)
+A total of 10 code snippets in the form of ".py" or ".ipynb" files for the code you write based on In-Class practice + Watching Video Tutorials for weeks 2-11 of class. Please also convert your code-snippet file into a "pdf" document and submit that document *along with (i.e., in addition)* to the ".py" or ".ipynb" files. 
 
 **Grading:** 
 Each code snippet (from each of the 10 weeks) will be worth 1.5 marks (total 15 marks). While students are required to submit the deliverables in time (as indicated above), the instructor will grade the deliverables together in two iterations (each 5 weeks' deliverables together. This is intended to simplify the process, while also sometimes allowing the instructor provide some flexibility in helping any students who may need additional help by allowing them to resubmit deliverables of specific weeks. 
@@ -175,8 +187,8 @@ These three assignments are coding exercises meant to support learning of the co
 * For each problem, in addition to your code, you should provide explanatory Python comments as appropriate. Your comments should be short and to-the-point. As a programmer, you should develop a sense as to when to use comments and when not. This requirement is meant to teach you about using comments. Using comments will be discussed in class and feedback on your deliverables will be provided. 
 * In addition to the functionality of your code, you should care for algorithms and style. This means, over time, you are expected to develop a sense of what the best ways to solve a problem in a computationally efficient way and using the capabilities of the Python programming language. These are aspects that will be discussed in class over the course of the semester.
 
-**Deliverables: ".py" or "iPython notebooks" with code**
-* For each of assignments the 1-3 assignments, you are required to submit your code an in the form of ".py" or ".ipynb" files, including your code and relevant narratives/comments, etc.
+**Deliverables: ".py" or "iPython notebooks" with code + "pdf" of the same code**
+* For each of assignments the 1-3 assignments, you are required to submit your code an in the form of ".py" or ".ipynb" files, including your code and relevant narratives/comments, etc. Please also convert your code-snippet file into a "pdf" document and submit that document *along with (i.e., in addition)* to the ".py" or ".ipynb" files. 
 
 **Assignment 4: Term Project**
 The purposes of this assignment include:
@@ -214,6 +226,17 @@ The final deliverable should include:
 
 
 ## 9. Course Policies
+
+**COVID-19-Related | Contingencies and COVID-19 Accommodation**
+
+Your instructor is committed to availing the best learning experience to you, including during the time of the pandemic. Should you have any difficulties, challenges, issues, etc. that impede your learning, please contact the instructor as soon as you can. Together, we can approach the learning process with engagement, kindness, and empathy. I want you to know I feel it is a privilege to have you in my course. Please help me serve you in the best ways possible by keeping me informed. I also invite you to extend support, kindness, and empathy to your classmates.
+
+**COVID-19-Related | Online Learning for International Students**
+
+ From UBC Provost and Vice-President Academic, UBC Vancouver, September 2, 2020:   
+
+During this pandemic, the shift to online learning has greatly altered teaching and studying at UBC, including changes to health and safety considerations. Keep in mind that some UBC courses might cover topics that are censored or considered illegal by non-Canadian governments. This may include, but is not limited to, human rights, representative government, defamation, obscenity, gender or sexuality, and historical or current geopolitical controversies. If you are a student living abroad, you will be subject to the laws of your local jurisdiction, and your local authorities might limit your access to course material or take punitive action against you. UBC is strongly committed to academic freedom, but has no control over foreign authorities (please visit [http://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,33,86,0](link) for an articulation of the values of the University conveyed in the Senate Statement on Academic Freedom). Thus, we recognize that students will have legitimate reason to exercise caution in studying certain subjects. If you have concerns regarding your personal situation, consider postponing taking a course with manifest risks, until you are back on campus or reach out to your academic advisor to find substitute courses. For further information and support, please visit: [http://academic.ubc.ca/support-resources/freedom-expression](link).
+
 
 **Attendance:** The UBC calendar states: “Regular attendance is expected of students in all their classes (including lectures, laboratories, tutorials, seminars, etc.). Students who neglect their academic work and assignments may be excluded from the final examinations. Students who are unavoidably absent because of illness or disability should report to their instructors on return to classes.”
 
