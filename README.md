@@ -125,20 +125,22 @@ for this.
 
 ```To provide additional support, the instructor will arrange additional "office hours" to be offered by a number of Deep Learning & NLP Team Mebmbers. The schedule for the term will be provided below. The below is justt a mock-up.```
 
+Peter is a MLIS volunteer to talk about experience using programming in library and linguistics context, as well as help with debugging etc.
+
 | Week | Date   | Time                            | 
 |------|--------|----------------------------------|
-| 1   | 10-Sep   | 10 am-11am, 4pm-5pm | 
-| 2   | 17-Sep   | 10 am-11am, 4pm-5pm | 
-| 3   | 24-Sep   | 10 am-11am, 4pm-5pm | 
-| 4   | 1-Oct   | 10 am-11am, 4pm-5pm | 
-| 5   | 8-Oct   | 10 am-11am, 4pm-5pm | 
-| 6   | 15-Oct   | 10 am-11am, 4pm-5pm | 
-| 7   | 22-Oct   | 10 am-11am, 4pm-5pm | 
-| 8   | 29-Oct   | 10 am-11am, 4pm-5pm | 
-| 9   | 5-Nov   | 10 am-11am, 4pm-5pm | 
-| 10   | 12-Nov   | 10 am-11am, 4pm-5pm | 
-| 11   | 19-Nov   | 10 am-11am, 4pm-5pm | 
-| 12   | 26-Nov   | 10 am-11am, 4pm-5pm | 
+| 1   | 10-Sep   | 4pm-5pm | 
+| 2   | 17-Sep   | 4pm-5pm | 
+| 3   | 24-Sep   | 4pm-5pm | 
+| 4   | 1-Oct   | 4pm-5pm | 
+| 5   | 8-Oct   | 4pm-5pm | 
+| 6   | 15-Oct   | 4pm-5pm | 
+| 7   | 22-Oct   | 4pm-5pm | 
+| 8   | 29-Oct   | 4pm-5pm | 
+| 9   | 5-Nov   | 4pm-5pm | 
+| 10   | 12-Nov   | 4pm-5pm | 
+| 11   | 19-Nov   | 4pm-5pm | 
+| 12   | 26-Nov   | 4pm-5pm | 
 
 
 ## 8. Course Assignments/Grades:
