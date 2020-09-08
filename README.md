@@ -106,7 +106,7 @@ for this.
 
 | Week | Date   | Topic                            | Readings  / Slides     | What is due/out            |
 |------|--------|----------------------------------|----------------|----------------------------|
-| 1    | 9-Sep  | Course overview & Unix Intro.    | No readings / [slides_0](https://github.com/mageed/libr559cWI2018/blob/master/slides/mam_unix.pptx); [vid_1](https://www.youtube.com/watch?v=Ms5sNYyejEw)|                            |
+| 1    | 9-Sep  | Course overview & Unix Intro.    | No readings / [slides_0](https://github.com/mageed/libr559cWI2018/blob/master/slides/mam_unix.pptx); [unix_for_poets](https://github.com/mageed/libr559cWI2018/blob/master/slides/handouts/Unixforpoets.pdf); [vid_1](https://www.youtube.com/watch?v=Ms5sNYyejEw)|                            |
 | 2    | 16-Sep | Python Intro., Editors &Literals | Hetland CH01 / [slides_1](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_one.ipynb); [vid_2](https://drive.google.com/file/d/1q7s7x3HFNf4NnvY3ythXsB4P-mrKB7-8/view?usp=sharing) | hw 1 out               |
 | 3    | 23-Sep | Sequences (Lists & Tuples) | Hetland CH02 / [slides_2](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_two.ipynb)  & [slides_3](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_three.ipynb); [vid_3](https://drive.google.com/file/d/1voBbBiDhNtA30H4tKJbnjsvfHMOsUjii/view?usp=sharing) |                            |
 | 4    | 30-Sep | Sequences (Strings) | Hetland CH03 / [slides_4](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_four.ipynb)  | hw 1 due; hw 2 out |
