@@ -123,9 +123,7 @@ for this.
 ## 7.B Ask Me Lab-Fashion Schedule (Extra Office Hours)
 
 
-```To provide additional support, the instructor will arrange additional "office hours" to be offered by a number of Deep Learning & NLP Team Mebmbers. The schedule for the term will be provided below. The below is justt a mock-up.```
-
-Peter is a MLIS volunteer to talk about experience using programming in library and linguistics context, as well as help with debugging etc.
+```To provide additional support, the instructor will arrange additional support to be offered by a number of Deep Learning & NLP Team Mebmbers. The below is the current time for these additional sessions. For more information, please see Canvas.```
 
 | Week | Date   | Time                            | 
 |------|--------|----------------------------------|
