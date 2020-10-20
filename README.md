@@ -150,8 +150,8 @@ for this.
 | Homework 2: | Oct 14 | 10% |
 | Homework 3: | Nov 4 | 10% |
 | ASSIGNMENT 4: Term Project (GROUP)| | |
-| Proposal/Outline | Nov 6 | not graded |
-| Report/Product | Dec. 1 |40% |
+| Proposal/Outline | Nov 4 | not graded |
+| Report/Product | Nov. 25|40% |
 
 
 **Notes about assignments:**
