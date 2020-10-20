@@ -112,8 +112,8 @@ for this.
 | 4    | 30-Sep | Sequences (Strings) | Hetland CH03 / [slides_4](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_four.ipynb); ```Videos:``` [strings_I](https://youtu.be/Rw4g-92lmLk); [strings_II](https://youtu.be/WlTdRv2KEgE)  | hw 1 due; hw 2 out |
 | 5    | 7-Oct  | Dictionaries                     | Hetland CH04 / [slides_5](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_five.ipynb); ```Videos:``` [dictionaries](https://youtu.be/CQP24YGe1nE), [dictionaries_short](https://drive.google.com/file/d/1b9x2VgnqB_oph5usPxmOXre3mPEotydf/view?usp=sharing); ```Additional (not required)```[recursion](https://www.cbc.ca/radio/ideas/the-recurring-case-of-recursion-a-pattern-for-making-sense-of-the-world-1.5181901) |                            |
 | 6    | 14-Oct | Conditionals & Loops             | Hetland CH05 / [slides_6](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_six.ipynb); ```Videos:``` [Conditionals_&\_Loops_1](https://youtu.be/fC3GFU3zRNE); [Conditionals_&\_Loops_2](https://youtu.be/vppPvq5Js2U) | hw 2 due |
-| 7    | 21-Oct | Functions                        | Hetland CH06 / [slides_7](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_seven.ipynb); ```videos:``` [functions](https://youtu.be/24RKl_9qW-g)|                            |
-| 8    | 28-Oct | Revision & Project Discussion    | No readings    |       hw 3 out        |
+| 7    | 21-Oct | Functions                        | Hetland CH06 / [slides_7](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_seven.ipynb); ```videos:``` [functions](https://youtu.be/24RKl_9qW-g)|                  hw 3 out          |
+| 8    | 28-Oct | Revision & Project Discussion    | No readings    |               |
 | 9    |30-Oct| Exceptions                       | Hetland CH08 /[slides_9](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_nine.ipynb); [exceptions_vid_1](https://drive.google.com/file/d/1IY4p8ESik2ruITJgqldMm3cNWq6TSi_w/view?usp=sharing); [exceptions_vid_2](https://drive.google.com/file/d/1r-NRo-DrFE336G8IvkNmiU0kV1Y_vUs0/view?usp=sharing)   |                            |
 | 10   | 4-Nov  | Modules                          | Hetland CH10 /[slides_10](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_ten.ipynb)  | hw 3 due, Project outline due        |
 | 11   | 11-Nov  | Files                            | Hetland CH11 /[slides_11](https://github.com/UBC-NLP/python2019/tree/master/slides/unit_eleven.ipynb); [file_practice](https://github.com/mageed/libr559dWII2018/blob/master/slides/sentiment_rule_based_classifier.ipynb); [files_vid_1](https://drive.google.com/file/d/1BRiSFMQa6V-YysxKU58jAxxZLe19gKS6/view?usp=sharing); [files_vid_2](https://drive.google.com/file/d/1MlKO-phXnqprbI1g_Rs-mFbjkz3esy5w/view?usp=sharing)   |                            |
@@ -148,7 +148,7 @@ for this.
 | ASSIGNMENT 0: In-Class & Video Tutorial Code | Throughout weeks 2-11 | 15% |
 | Homework 1: | Sept. 25 | 10% |
 | Homework 2: | Oct 14 | 10% |
-| Homework 3: | Nov 6 | 10% |
+| Homework 3: | Nov 4 | 10% |
 | ASSIGNMENT 4: Term Project (GROUP)| | |
 | Proposal/Outline | Nov 6 | not graded |
 | Report/Product | Dec. 1 |40% |
