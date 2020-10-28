@@ -118,7 +118,7 @@ for this.
 | 10   | 11-Nov  | Modules                          | Hetland CH10 /[slides_10](https://github.com/mageed/libr559cWI2018/blob/master/slides/unit_ten.ipynb)  | hw 3 due, Project outline due        |
 | 11   | 18-Nov  | Files                            | Hetland CH11 /[slides_11](https://github.com/UBC-NLP/python2019/tree/master/slides/unit_eleven.ipynb); [file_practice](https://github.com/mageed/libr559dWII2018/blob/master/slides/sentiment_rule_based_classifier.ipynb); [files_vid_1](https://drive.google.com/file/d/1BRiSFMQa6V-YysxKU58jAxxZLe19gKS6/view?usp=sharing); [files_vid_2](https://drive.google.com/file/d/1MlKO-phXnqprbI1g_Rs-mFbjkz3esy5w/view?usp=sharing)   |                            |
 | 12   | 25-Nov  | Text processing                  | nltk-book CH03 / [slide_12](https://github.com/UBC-NLP/python2019/blob/master/slides/unit_twelve.ipynb); [file_practice](https://github.com/mageed/libr559dWII2018/blob/master/slides/sentiment_rule_based_classifier.ipynb); [sorting_vid](https://drive.google.com/file/d/1qc1wSz6bbdEKvPRv7iaCZjlaWtZ2IcDw/view?usp=sharing) ; [read_lex_vid1](https://drive.google.com/file/d/13yggysG1rIdI48jVfNQBvcdUxySEB4lO/view?usp=sharing); [read_lex_vid2](https://drive.google.com/file/d/1agHX5dXDNzHd8RRAo-3tXOuL2ZcvB6dr/view?usp=sharing) |                            |
-| 13   | 30-Nov | Revision & Project Work          | No readings    | Final paper due Dec. 1st at 11:59 pm|
+| 13   | 2-Dec | Revision & Project Work          | No readings    | Final paper due Dec. 1st at 11:59 pm|
 
 ## 7.B Ask Me Lab-Fashion Schedule (Extra Office Hours)
 
@@ -151,7 +151,7 @@ for this.
 | Homework 3: | Nov 4 | 10% |
 | ASSIGNMENT 4: Term Project (GROUP)| | |
 | Proposal/Outline | Nov 4 | not graded |
-| Report/Product | Nov. 25|40% |
+| Report/Product | Dec. 2|40% |
 
 
 **Notes about assignments:**
