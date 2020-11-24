@@ -117,8 +117,8 @@ for this.
 | 9    |4-Nov| Exceptions                       | Hetland CH08 /[slides_9](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_nine.ipynb); ```videos:``` [exceptions](https://youtu.be/Bpfn5CiNgvQ)   |                            |
 | 10   | 11-Nov  |            Remembrance day-- ```No Class```               |   | hw 3 due, Project outline due        |
 | 11   | 18-Nov  | Modules &  Files                            | Hetland CH10 /[slides_10](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_ten.ipynb); Hetland CH11 /[slides_11_A](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_eleven_A.ipynb); ```Extra:``` [slides_11_B](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_eleven_B.ipynb); ```videos:``` [modules](https://youtu.be/rmbQUlzIB80); [files](https://youtu.be/NYI6TEdzrTo)   |                            |
-| 12   | 25-Nov  | Text processing                  | nltk-book CH03 / [slide_12](https://github.com/UBC-NLP/python2019/blob/master/slides/unit_twelve.ipynb); ```Videos:``` [file_practice_1](https://youtu.be/u2P4353pddQ); [file_practice_2](https://youtu.be/lVIfY_Ce58c); ```Extra``` (A bit advanced) [Sorting](https://youtu.be/_OI2w5BBkQ0) |                            |
-| 13   | 2-Dec | Revision & Project Work          | No readings    | Final paper due Dec. 1st at 11:59 pm|
+| 12   | 25-Nov  | Text processing                  | nltk-book CH03 / [slide_12](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_twelve.ipynb); ```Videos:``` [file_practice_1](https://youtu.be/u2P4353pddQ); [file_practice_2](https://youtu.be/lVIfY_Ce58c); [text_processing](https://youtu.be/xkOjM3WbnlE); ```Extra (Optional)``` (A bit advanced) [Sorting](https://youtu.be/_OI2w5BBkQ0) |                            |
+| 13   | 2-Dec | Revision & Project Work          | No readings    | Final paper due Dec. 5th at 11:59 pm|
 
 ## 7.B Ask Me Lab-Fashion Schedule (Extra Office Hours)
 
@@ -151,7 +151,7 @@ for this.
 | Homework 3: | Nov 4 | 10% |
 | ASSIGNMENT 4: Term Project (GROUP)| | |
 | Proposal/Outline | Nov 4 | not graded |
-| Report/Product | Dec. 2|40% |
+| Report/Product | Dec. 5|40% |
 
 
 **Notes about assignments:**
