@@ -120,7 +120,23 @@ for this.
 | 12   | 25-Nov  | Text processing                  | nltk-book CH03 / [slide_12](https://github.com/UBC-NLP/python2020/blob/master/slides/unit_twelve.ipynb); ```Videos:``` [file_practice_1](https://youtu.be/u2P4353pddQ); [file_practice_2](https://youtu.be/lVIfY_Ce58c); [text_processing](https://youtu.be/xkOjM3WbnlE); ```Extra (Optional)``` (A bit advanced) [Sorting](https://youtu.be/_OI2w5BBkQ0) |                            |
 | 13   | 2-Dec | Revision & Project Work          | [API & Pandas](https://github.com/UBC-NLP/python2020/blob/master/slides/api_and_short_panda_tutorial.ipynb); [Twitter Crawling](https://github.com/UBC-NLP/python2020/blob/master/slides/Crawling_Twitter.ipynb); [Rule-Based Sentiment Analysis](https://github.com/UBC-NLP/python2020/blob/master/slides/sentiment_rule_based_classifier.ipynb)   | Final paper due Dec. 5th at 11:59 pm|
 
-## 7.B Ask Me Lab-Fashion Schedule (Extra Office Hours)
+## Extra Videos (NLP & Machine Learning)
+
+| Topic |                            
+|-------|
+|[Seq2Seq Models (1)](https://youtu.be/aial99njwdo)    | 
+| [Seq2Seq Models (2)](https://youtu.be/k5NK2x5IUzY) |
+| Seq2Seq Models (3) | https://youtu.be/K7vj-eevn78) |
+| [GPT2] https://youtu.be/t8rKBLArLkY) |
+| [ELMo](https://youtu.be/3qhriESuX9Y) |
+| [Convolutional Neural Networks](https://youtu.be/CwNIFfi67rE) |
+| [Language Models, Beam Search, Multilingual Machine Translation](https://youtu.be/2LXVwZXGApU) |
+| [Transformer(1)](https://youtu.be/IoXR8z-nfYI) | 
+| [Transformer(2)](https://youtu.be/4Z5gkkCptHI) | 
+| [BERT](https://youtu.be/4PAzTvFL4p4) |
+
+
+## 7.C Ask Me Lab-Fashion Schedule (Extra Office Hours)
 
 
 ```To provide additional support, the instructor will arrange additional support to be offered by a number of Deep Learning & NLP Team Mebmbers. The below is the current time for these additional sessions. For more information, please see Canvas.```
