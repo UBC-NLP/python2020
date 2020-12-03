@@ -126,8 +126,8 @@ for this.
 |-------|
 |[Seq2Seq Models (1)](https://youtu.be/aial99njwdo)    | 
 | [Seq2Seq Models (2)](https://youtu.be/k5NK2x5IUzY) |
-| Seq2Seq Models (3) | https://youtu.be/K7vj-eevn78) |
-| [GPT2] https://youtu.be/t8rKBLArLkY) |
+| [Seq2Seq Models (3)](https://youtu.be/K7vj-eevn78) |
+| [GPT2](https://youtu.be/t8rKBLArLkY) |
 | [ELMo](https://youtu.be/3qhriESuX9Y) |
 | [Convolutional Neural Networks](https://youtu.be/CwNIFfi67rE) |
 | [Language Models, Beam Search, Multilingual Machine Translation](https://youtu.be/2LXVwZXGApU) |
